@@ -18,7 +18,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-22.04-small-1c-4g
+    runs-on: tenki-standard-small-2c-2g
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
